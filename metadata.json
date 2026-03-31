@@ -1,0 +1,7 @@
+{
+  "name": "Sindhura Hospital",
+  "description": "Trusted Healthcare for Your Family in Srikakulam, Andhra Pradesh. Advanced medical care, maternity services, and 24/7 emergency support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
